@@ -1,7 +1,7 @@
-package com.sparta.myselctshop.naver.controller;
+package com.sparta.myselectshop.naver.controller;
 
 
-import com.sparta.myselctshop.naver.service.NaverApiService;
+import com.sparta.myselectshop.naver.service.NaverApiService;
 import com.sparta.myselectshop.naver.dto.ItemDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

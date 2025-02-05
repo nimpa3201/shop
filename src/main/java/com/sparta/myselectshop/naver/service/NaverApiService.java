@@ -1,4 +1,4 @@
-package com.sparta.myselctshop.naver.service;
+package com.sparta.myselectshop.naver.service;
 
 
 import com.sparta.myselectshop.naver.dto.ItemDto;
