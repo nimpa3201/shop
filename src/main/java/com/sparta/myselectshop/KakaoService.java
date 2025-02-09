@@ -1,4 +1,4 @@
-package com.sparta.myselectshop.service;
+package com.sparta.myselectshop;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;

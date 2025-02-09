@@ -4,7 +4,7 @@ package com.sparta.myselectshop.controller;
 import com.sparta.myselectshop.dto.FolderRequestDto;
 import com.sparta.myselectshop.dto.FolderResponseDto;
 import com.sparta.myselectshop.security.UserDetailsImpl;
-import com.sparta.myselectshop.service.FolderService;
+import com.sparta.myselectshop.FolderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
